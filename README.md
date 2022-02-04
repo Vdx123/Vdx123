@@ -43,6 +43,6 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vdx123&theme=dracula)  
 
-![GitHub metrics](https://metrics.lecoq.io/qbentil) 
+![GitHub metrics](https://metrics.lecoq.io/vdx123 
 
 
