@@ -7,7 +7,7 @@
   
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">,  It's Freeman here!
 
-<p align="left"> <img src="https://64.media.tumblr.com/e5f3cb603dea554f3dfb205d15c3b47e/35d1e15c77e19399-a9/s1280x1920/916ce15f4db295d68334114a55ec9b9c9426ebe5.jpg" alt="aws" width="40" height="40"/> 
+<p align="left"> <img src="https://64.media.tumblr.com/e5f3cb603dea554f3dfb205d15c3b47e/35d1e15c77e19399-a9/s1280x1920/916ce15f4db295d68334114a55ec9b9c9426ebe5.jpg" alt="aws" width="400" height="400"/> 
 
 
 - 🔭 Im now on a python course at Udemy (#100daysOfCode)
