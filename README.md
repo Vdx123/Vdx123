@@ -50,8 +50,11 @@
   
   
   
-  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img                                                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img 
-                                                                                           
+  
+  
+  
+  
+                                                                             
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Vdx123&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vdx123&theme=github_dark)
