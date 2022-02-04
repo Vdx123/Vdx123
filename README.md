@@ -8,13 +8,27 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif">, Freeman here!
 
 
-- 🔭 Im now on a python course at Udemy (#100daysOfCode) 
-- 🌱 I'm currently learning Python;including data science and ML
-- 👯 I’m looking to collaborate on any Projects related to Data sciences,ML,web dev and more
+- 🔭 Im now on a python course at Udemy (#100daysOfCode)
+
+
+- 🌱 I'm currently learning Python;including Data Science and ML
+
+
+- 👯 I’m looking to collaborate on any Projects related to Data Science,ML,web dev and more
+
+
 - 🤔 I’m looking for help with advancing my Codes.
+
+
 - 💬 Ask me about solving problems and building innovative ideas through Tech.
+
+
 - 📫 How to reach me: freeman123phinehas@gmail.com,WhatsApp +233 (0) 54 865 2134
+
+
 - 🦾 Computer languages I can speak?,English,Python,HTML,CSS & JS (cant be counted but...well..yeah)
+
+
 - ⚡ Fun facts: Listiening to Musics🎧🎵,Playing my fav game Basketball🏀🖤😁
 
 
