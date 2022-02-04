@@ -33,6 +33,8 @@
 
 
 
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -45,6 +47,11 @@
   <a href="https://www.youtube.com/c/https://youtube.com/c/cyberkallan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/cyberkallan2" height="30" width="40" /></a>
 
 
+  
+  
+  
+  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img                                                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img 
+                                                                                           
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Vdx123&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vdx123&theme=github_dark)
