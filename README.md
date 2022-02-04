@@ -40,12 +40,12 @@
 
 <p align="left">
 
-<a href="https://twitter.com/arjunarz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunarz3" height="30" width="40" /></a>
+<a href="https://twitter.com/arjunarz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.com" alt="arjunarz3" height="30" width="40" /></a>
 
-  <a href="https://instagram.com/imarjunarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imarjunarz" height="30" width="40" /></a>
+  <a href="https://instagram.com/f.r.e.e.m.a.n__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.r.e.e.m.a.n__" height="30" width="40" /></a>
 
 
-  <a href="https://www.youtube.com/c/https://youtube.com/c/cyberkallan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/cyberkallan2" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://youtube.com/c/Freeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/Freeman" height="30" width="40" /></a>
 
 
   
