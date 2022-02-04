@@ -45,8 +45,6 @@
   <a href="https://instagram.com/f.r.e.e.m.a.n__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.r.e.e.m.a.n__" height="30" width="40" /></a>
 
 
-  <a href="https://www.youtube.com/c/https://youtube.com/c/Freeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/Freeman" height="30" width="40" /></a>
-
 
   
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="
