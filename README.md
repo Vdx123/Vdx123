@@ -46,7 +46,4 @@
 ![GitHub metrics](https://metrics.lecoq.io/vdx123 
 
 
-Languages and Tools:
-aws bootstrap css3 django firebase framer git hadoop heroku html5 javascript linux mongodb mysql nodejs photoshop php python xd
-
 
