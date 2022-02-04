@@ -23,7 +23,7 @@
 - 💬 Ask me about solving problems and building innovative ideas through Tech.
 
 
-- 📫 How to reach me: freeman123phinehas@gmail.com,WhatsApp +233 (0) 54 865 2134
+- 📫 How to reach me: freeman123phinehas9@gmail.com,WhatsApp +233 (0) 54 865 2134
 
 
 - 🦾 Computer languages I can speak?,English,Python,HTML,CSS & JS (cant be counted but...well..yeah)
