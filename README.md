@@ -8,11 +8,7 @@
 
 <p align="middle"> <img src="https://64.media.tumblr.com/e5f3cb603dea554f3dfb205d15c3b47e/35d1e15c77e19399-a9/s1280x1920/916ce15f4db295d68334114a55ec9b9c9426ebe5.jpg" alt="aws" width="400" height="400"/> 
   
-<p align=" middle"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="250"  height= "250" alt="aws" />
-  
 
-
-  
 
          IM ON THESE LANGUAGES 🛸💎
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p> 
@@ -82,3 +78,7 @@
 
 
 <p><a href="https://www.buymeacoffee.com/free-man11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="free-man" /></a></p><br><br>
+
+  
+  <p align="middle"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="250"  height= "250" alt="aws" />
+  
