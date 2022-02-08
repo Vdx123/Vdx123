@@ -57,22 +57,6 @@
   
   
  
-                                                                             
-
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Vdx123&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vdx123&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vdx123&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vdx123&theme=github_dark)
-[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=Vdx123&show_icons=true&theme=github_dark)](https://github.com/qbentil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdx123&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vdx123&theme=dracula)  
-
-![GitHub metrics](https://metrics.lecoq.io/vdx123 
-  
-  
-
-
 
 
 
