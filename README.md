@@ -56,9 +56,23 @@
   
   
   
+  
+  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=free-man11&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=free-man11&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=free-man&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=free-man11&theme=github_dark)
+[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=free-man11&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-man11&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/free-man11)
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=free-man11&theme=dracula)  
+
+![GitHub metrics](https://metrics.lecoq.io/free-man11)  
+  
+  
+  
  
 
 
 
 
-<p><a href="https://www.buymeacoffee.com/Vdx123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vdx123" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/free-man11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="free-man" /></a></p><br><br>
