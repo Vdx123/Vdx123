@@ -71,16 +71,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/vdx123 
   
   
-  # Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-
-
-
-
-
 
 
 
