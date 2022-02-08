@@ -80,5 +80,5 @@
 <p><a href="https://www.buymeacoffee.com/free-man11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="free-man" /></a></p><br><br>
 
   
-  <p align="middle"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="250"  height= "250" alt="aws" />
+  <p align="middle right"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="250"  height= "250" alt="aws" />
   
