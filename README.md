@@ -8,7 +8,7 @@
 
 <p align="middle"> <img src="https://64.media.tumblr.com/e5f3cb603dea554f3dfb205d15c3b47e/35d1e15c77e19399-a9/s1280x1920/916ce15f4db295d68334114a55ec9b9c9426ebe5.jpg" alt="aws" width="400" height="400"/> 
   
-<p align="middle"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="400"  height= "200" alt="aws" />
+<p align="middle"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="600"  height= "400" alt="aws" />
   
 
 
