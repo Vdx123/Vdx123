@@ -8,6 +8,9 @@
 
 <p align="middle"> <img src="https://64.media.tumblr.com/e5f3cb603dea554f3dfb205d15c3b47e/35d1e15c77e19399-a9/s1280x1920/916ce15f4db295d68334114a55ec9b9c9426ebe5.jpg" alt="aws" width="400" height="400"/> 
   
+  
+    <img src="./BentilZone-logo-04.png" style = "width: 19%" alt="Bentilzone Logo 1">
+  
 
 
   
