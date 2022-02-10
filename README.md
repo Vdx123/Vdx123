@@ -68,10 +68,6 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=free-man11&theme=dracula)  
 
-![GitHub metrics](https://metrics.lecoq.io/free-man11)  
-  
-  
-  
  
 
 
