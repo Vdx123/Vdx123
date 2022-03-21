@@ -77,6 +77,31 @@
   
   <p align="left"> <img src="https://user-images.githubusercontent.com/98413109/153087034-0c392e7b-f466-49bf-b172-4586b83740c6.jpg" width="250"  height= "250" alt="aws" />
   
+  
+  
+  
+  
+  
+  
+  	
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
+</p>
+
+<!-- <p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p> -->
+
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+<h3 align="center">
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+</h3>
 
   
   
