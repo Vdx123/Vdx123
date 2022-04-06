@@ -47,6 +47,18 @@
 <a href="https://twitter.com/vdx_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vdx_123" height="30" width="40" /></a>
 
   <a href="https://instagram.com/f.r.e.e.m.a.n__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.r.e.e.m.a.n__" height="30" width="40" /></a>
+  
+  
+  
+  
+  
+  
+  
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
+</p>
+
 
 
   
